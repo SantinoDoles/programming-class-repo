@@ -11,4 +11,6 @@ This repository contains my Python programming assignments for ITSE 1302 at McLe
 - [Lesson 5 Assignment](lesson_5_assignment.py)
 - [Lesson 6 Assignment](lesson_6_assignment.py)
 - [Lesson 7 Assignment](lesson_7_assignment.py)
+- [Simple Budget Tracker](simple_budget_tracker.py) 
+- [Contact Manager](contact_manager.py) 
 
